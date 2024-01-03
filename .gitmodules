@@ -5,6 +5,9 @@
 [submodule "Dmisc"]
 	path = Dmisc
 	url = https://github.com/dnldelarosa/Dmisc
+[submodule "datafaro"]
+	path = datafaro
+	url = https://github.com/datafaro/datafaroR
 [submodule "sfDR"]
 	path = sfDR
 	url = https://github.com/adatar-do/sfDR
