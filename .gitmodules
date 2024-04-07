@@ -8,6 +8,9 @@
 [submodule "datafaro"]
 	path = datafaro
 	url = https://github.com/datafaro/datafaroR
+[submodule "renviron"]
+	path = renviron
+	url = https://github.com/adatar-do/renviron
 [submodule "sfDR"]
 	path = sfDR
 	url = https://github.com/adatar-do/sfDR
