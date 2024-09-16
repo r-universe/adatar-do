@@ -14,6 +14,9 @@
 [submodule "renviron"]
 	path = renviron
 	url = https://github.com/adatar-do/renviron
+[submodule "rgisDR"]
+	path = rgisDR
+	url = https://github.com/adatar-do/rgisDR
 [submodule "sfDR"]
 	path = sfDR
 	url = https://github.com/adatar-do/sfDR
